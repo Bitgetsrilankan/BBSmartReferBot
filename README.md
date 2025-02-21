@@ -1,5 +1,5 @@
 # @BjsCodes BBSmartReferBot - chat bot
-It is repository for chat bot: [@@BjsCodes BBSmartReferBot](https://t.me/@BjsCodes BBSmartReferBot)
+It is repository for chat bot: @Oh_th BBSmartReferBot
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
